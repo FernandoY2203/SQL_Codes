@@ -178,3 +178,5 @@ Desc Table_Constraints;
 Select Constraint_Schema As 'Banco', Table_Name As 'Tabela', Constraint_Name As 'Nome da Regra', Constraint_Type As 'Tipo'
 From TABLE_CONSTRAINTS
 Where Constraint_Schema = 'Academia';
+
+
